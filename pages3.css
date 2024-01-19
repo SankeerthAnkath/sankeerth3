@@ -1,0 +1,18 @@
+body{
+    padding-left: 30%;
+}
+.hr{
+    padding-right: 30%;
+}
+h3{
+    width: max-content;
+    font-size: 25px;
+    position: relative;
+    cursor: pointer;
+}
+h2{
+    width: max-content;
+    font-size: 30px;
+    position: relative;
+    cursor: pointer;
+}
